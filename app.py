@@ -49,6 +49,7 @@ def animals_images_page():
 
 
 def main():
+    st.write("login info: username: John_the_cool, password: password")
     authenticator = setup()
     authenticator.login()
     if st.session_state["authentication_status"]:
