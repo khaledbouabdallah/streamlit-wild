@@ -1,0 +1,3 @@
+username,name,password,email,failed_login_attemps,logged_in,role
+"John_the_cool","John Doe","password","email@test.com",0,"false","admin"
+"Doe2019XD","Doe John","password","email@test.com",0,"false","user"
